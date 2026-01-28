@@ -1,7 +1,5 @@
 # Phylogenetic niche conservatism shapes the persistence of tree growth memory
 
-Dataset DOI: [10.5061/dryad.44j0zpcw3](https://doi.org/10.5061/dryad.44j0zpcw3)
-
 ## Description of the data and file structure
 
 This repository contains the processed datasets and source code underlying the analysis presented in the manuscript titled above. The study investigates global vegetation growth memory, phylogenetic constraints, and driving factors using tree-ring data and climate reanalysis datasets.
